@@ -9,7 +9,6 @@ FoodFactory is a responsive website dedicated to showcasing various recipes, res
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
