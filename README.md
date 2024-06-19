@@ -23,7 +23,6 @@ FoodFactory is a responsive website dedicated to showcasing various recipes, res
 - **HTML5:** Markup language used for structuring the website content.
 - **CSS3:** Styling language used for the presentation of the website.
 - **JavaScript:** Used for smooth scrolling functionality.
-- **jQuery:** JavaScript library used for DOM manipulation and event handling.
 
 ## Usage
 
